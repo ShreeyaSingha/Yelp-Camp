@@ -32,5 +32,8 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^9.1.0",
     "sanitize-html": "^2.17.7"
+  },
+  "overrides": {
+    "htmlparser2": "$htmlparser2"
   }
 }
